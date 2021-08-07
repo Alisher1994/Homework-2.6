@@ -454,6 +454,7 @@ table .thead__td {
   background-color: #272727;
   border: 1.5px solid rgba(0, 0, 0, 0.3);
 }
-.table__body .table__footer .tfooter__tr {
+
+.table__footer .tfooter__tr {
   height: 50px;
 }/*# sourceMappingURL=main.css.map */

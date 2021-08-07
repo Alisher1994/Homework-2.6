@@ -29,9 +29,10 @@ table {
         border: 1.5px solid rgba(0, 0, 0, 0.3);
     }
 
-    .table__footer {
-        & .tfooter__tr {
-            height: 50px;
-        }
+}
+
+.table__footer {
+    & .tfooter__tr {
+        height: 50px;
     }
 }
