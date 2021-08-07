@@ -377,7 +377,6 @@ body {
 .wrapper .wrapper__form {
   display: flex;
   margin-top: 50px;
-  font-weight: medium;
   justify-content: center;
   font-family: "Anaheim", "Arial", sans-serif;
 }
@@ -432,7 +431,6 @@ table {
   margin: 0 auto;
   margin-top: 50px;
   text-align: center;
-  font-weight: medium;
   border-collapse: collapse;
   font-family: "Anaheim", "Arial", sans-serif;
 }
