@@ -3,5 +3,10 @@
 
 <b>Mavzu:</b> <code>table, tr, td, thead, tbody, tfoot</code> teglari
 
-2 oyda o'tilgan table tegi uy fazifasi. Bajarilishga ketgan vaqt: Boshlandi 20:00 Tugadi: 03:27
+<hr> 
+
+Bajarilishga ketgan vaqt: <br>
+Boshlandi 20:00 - Tugadi: 03:27
+
+<he>
 Kod yozish jarayonida sass preprotsessori qo'llanilgan. 
