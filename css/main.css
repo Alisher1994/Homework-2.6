@@ -436,25 +436,26 @@ table {
   border-collapse: collapse;
   font-family: "Anaheim", "Arial", sans-serif;
 }
+table .caption {
+  display: none;
+}
 table thead,
 table tfoot {
   font-weight: bold;
   text-transform: uppercase;
   background-color: #e3b949;
 }
-table .thead__td {
+table .thead__th {
   height: 50px;
-  min-width: 200px;
+  width: 200px;
   border: 1.5px solid rgba(0, 0, 0, 0.3);
 }
-
-.table__body .tbody__td {
+table .table__body .tbody__td {
   height: 50px;
   color: #ffffff;
   background-color: #272727;
   border: 1.5px solid rgba(0, 0, 0, 0.3);
 }
-
-.table__footer .tfooter__tr {
+table .table__footer .tfooter__tr {
   height: 50px;
 }/*# sourceMappingURL=main.css.map */
