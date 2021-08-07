@@ -413,10 +413,12 @@ body {
   height: 50px;
   width: 100px;
   display: flex;
+  color: #232323;
   font-weight: bold;
   font-style: italic;
   border-radius: 8px;
   align-items: center;
+  text-decoration: none;
   box-sizing: border-box;
   justify-content: center;
   background-color: #e3b949;
